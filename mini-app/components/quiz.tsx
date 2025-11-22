@@ -95,7 +95,7 @@ export default function Quiz() {
         ))}
       </div>
       <Share
-        text={`I scored ${score !== null ? score.toFixed(0) : "?"}% Harry! ${url}`}
+        text={`I scored ${score?.toFixed(0) ?? "?"}% Harry! ${url}`}
       />
     </div>
   );
