@@ -1,0 +1,44 @@
+
+# 2025-11-22 16:58:53.055632
++Code the following app
++```
++A quiz that lets someone find out how similar they are to Harry Potter on a fun “0–100% Harry” scale by answering 5 multiple choice questions, and then allows them to share their result.
++
++Create 4 result tiers based on their score:
++
++0–25% Harry – “Muggle at Heart”
++
++26–50% Harry – “Hogwarts Newcomer”
++
++51–75% Harry – “Brave Gryffindor”
++
++76–100% Harry – “Chosen One Energy”
++
++Generate a unique cute cartoon vector illustration of a Harry Potter–style young wizard for each result tier (round glasses, messy hair, lightning-shaped scar, robe, wand) and display the corresponding image and title on the result page for that user. Allow the user to retake the quiz as many times as they want. Write the questions and answers yourself. Randomize the order of the answers for each question.
++
++Place the quiz on the home page.
++```
++
++Generate an app logo and update the app metadata title and description.
+
+# 2025-11-22 16:58:53.056528
++Code the following app
++```
++A quiz that lets someone find out how similar they are to Harry Potter on a fun “0–100% Harry” scale by answering 5 multiple choice questions, and then allows them to share their result.
++
++Create 4 result tiers based on their score:
++
++0–25% Harry – “Muggle at Heart”
++
++26–50% Harry – “Hogwarts Newcomer”
++
++51–75% Harry – “Brave Gryffindor”
++
++76–100% Harry – “Chosen One Energy”
++
++Generate a unique cute cartoon vector illustration of a Harry Potter–style young wizard for each result tier (round glasses, messy hair, lightning-shaped scar, robe, wand) and display the corresponding image and title on the result page for that user. Allow the user to retake the quiz as many times as they want. Write the questions and answers yourself. Randomize the order of the answers for each question.
++
++Place the quiz on the home page.
++```
++
++Generate an app logo and update the app metadata title and description.
